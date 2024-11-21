@@ -28,7 +28,3 @@ This is a responsive, parallax-scrolling website inspired by the tranquility of 
 - A modern web browser (e.g., Chrome, Firefox).  
 - A code editor (e.g., Visual Studio Code).  
 
-### Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/forest-parallax-website.git
