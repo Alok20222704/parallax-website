@@ -26,5 +26,11 @@ This is a responsive, parallax-scrolling website inspired by the tranquility of 
 
 ### Prerequisites  
 - A modern web browser (e.g., Chrome, Firefox).  
-- A code editor (e.g., Visual Studio Code).  
+- A code editor (e.g., Visual Studio Code).
+
+---
+
+## Live Demo  
+You can view a live demo of this project [here](https://jolly-squirrel-ceb70a.netlify.app/).
+
 
